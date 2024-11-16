@@ -51,3 +51,5 @@ Client scripts which processes command line arguments before calling the
 
 - Wifi network search and connect.
 - Add extra permissions to the app to (un)install apps, stop processes etc.
+
+
